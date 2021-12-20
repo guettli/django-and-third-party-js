@@ -73,3 +73,8 @@ Con:
 
 * It is likely that you package you need was not uploaded yet.
 
+
+# Related
+
+[Thomas Working-out-Loud](//github.com/guettli/wol)
+
