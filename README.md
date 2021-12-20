@@ -79,6 +79,9 @@ Up to now the django-cookiecutter uses Gulp. But I would not recommend it if you
 
 Webpack has a much bigger and healthier community.
 
+Related Merge-Request [Replace Gulp with Webpack](https://github.com/cookiecutter/cookiecutter-django/pull/3106)
+
+
 # Related
 
 [Thomas Working-out-Loud](//github.com/guettli/wol)
