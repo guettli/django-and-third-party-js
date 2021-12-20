@@ -62,7 +62,7 @@ I looks like a promising helper, but I have not used it up to now.
 
 [python-xstatic](//xstatic.readthedocs.io/en/latest/) creates python packages for static files.
  
-For example for Bootstrap you could install //pypi.org/project/XStatic-Bootstrap/ via pip.
+For example for Bootstrap you could install https://pypi.org/project/XStatic-Bootstrap/ via pip.
 
 Pro:
 
