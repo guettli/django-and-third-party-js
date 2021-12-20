@@ -10,6 +10,7 @@ For example you want to use [Boostrap](//getbootstrap.com/) or [htmx](//htmx.org
 Here I list the options you have, so that you have an overview to find
 your solution.
 
+Please give me feedback! Is there a feasible option missing in this list? Please share your solution.
 
 # Public CDN
 
