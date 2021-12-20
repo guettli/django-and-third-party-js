@@ -73,6 +73,11 @@ Con:
 
 * It is likely that you package you need was not uploaded yet.
 
+# Gulp
+
+Up to now the django-cookiecutter uses Gulp. But I would not recommend it if you start from scratch today.
+
+Webpack has a much bigger and healthier community.
 
 # Related
 
