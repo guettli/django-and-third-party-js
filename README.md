@@ -28,7 +28,8 @@ need to find a simple solution.
 
 If the package is available via a public CDN, then you can use these files.
 
-Example from [Bootstrap docs](https://getbootstrap.com/docs/5.1/getting-started/download/#cdn-via-jsdelivr)
+Example from [Bootstrap docs](https://getbootstrap.com/docs/5.1/getting-started/download/#cdn-via-jsdelivr). Just copy these
+lines into your base template.
 
 ```
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
