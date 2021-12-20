@@ -94,6 +94,9 @@ Webpack has a much bigger and healthier community.
 
 Related Merge-Request [Replace Gulp with Webpack](https://github.com/cookiecutter/cookiecutter-django/pull/3106)
 
+# Other Asset-Managers
+
+https://djangopackages.org/grids/g/asset-managers/
 
 # Related
 
