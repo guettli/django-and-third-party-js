@@ -7,10 +7,10 @@ you have far too many options.
 
 For example you want to use [Boostrap](//getbootstrap.com/) or [htmx](//htmx.org).
 
-Here I list the options you have, so that you have an overview to find
+Here I list the options you have so that you have an overview to find
 your solution.
 
-Please give me feedback! Is there a feasible option missing in this list? Please share your solution.
+Please give me feedback! Is there a feasible option missing from this list? Please share your solution.
 
 # Public CDN
 
@@ -29,33 +29,33 @@ Pro:
 
 Con:
 
-* If are offline, for example you are traveling, then you can't reach the public CDN.
+* If you are offline, for example, you are traveling, then you can't reach the public CDN.
 
 # Vendor
 
-To "vendor" a library means to copy the code of a third-party library into the own code base.
+To "vendor" a library means to copy the code of a third-party library into its own codebase.
 
-This is a common work-around for having no useable dependency management.
+This is a common workaround for having no useable dependency management.
 
 You could just take the `bootstrap.min.css` and `bootstrap.bundle.min.js` and copy these
 files into your code.
 
-Please use a directory called "vendor" to signal all participants, that this is code which was copied.
+Please use a directory called "vendor" to signal all participants, that this is the code that was copied.
 
 Pro:
 
-* You don't need internet connection for development, since the files get served from your server.
+* You don't need an internet connection for development, since the files get served from your server.
 
 Con:
 
-* You have strange binary-like file in your git repo.
-* If it is only one file, then it is not much work. But in the long run you might have many and maintaining them needs time.
+* You have the strange binary-like file in your git repo.
+* If it is only one file, then it is not much work. But in the long run, you might have many, and maintaining them needs time.
 
 # Python Webpack Boilerplate
 
 You can use [Python Webpack Boilerplate](https://github.com/AccordBox/python-webpack-boilerplate).
 
-I looks like a promising helper, but I have not used it up to now.
+It looks like a promising helper, but I have not used it up to now.
 
 
 
@@ -63,7 +63,7 @@ I looks like a promising helper, but I have not used it up to now.
 
 [python-xstatic](//xstatic.readthedocs.io/en/latest/) creates python packages for static files.
  
-For example for Bootstrap you could install https://pypi.org/project/XStatic-Bootstrap/ via pip.
+For example, for Bootstrap you could install https://pypi.org/project/XStatic-Bootstrap/ via pip.
 
 Pro:
 
