@@ -7,6 +7,8 @@ you have far too many options.
 
 For example you want to use [Boostrap](//getbootstrap.com/) or [htmx](//htmx.org).
 
+How to get the their JS or CSS code into your application?
+
 Here I list the options you have so that you have an overview to find
 your solution.
 
