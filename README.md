@@ -14,6 +14,16 @@ your solution.
 
 Please give me feedback! Is there a feasible option missing from this list? Please share your solution.
 
+# The problem
+
+The fundamental issue that you can use `pip` to install Python dependencies, but you can't install
+Javascript dependencies.
+
+You can use `npm` to download JavaScript libraries. But how to integrate this into your code?
+
+Maybe we will all be using Google's [bazel](https://bazel.build/) in the future. But up to now mere mortals
+need to find a simple solution.
+
 # Public CDN
 
 If the package is available via a public CDN, then you can use these files.
