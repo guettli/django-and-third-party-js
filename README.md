@@ -22,7 +22,7 @@ Javascript dependencies.
 Things are easy if you have only direct dependencies. Then you can handle your requirements for python
 code in requirements.txt and requirements for npm packages via packages.json.
 
-But what can you do, if you depend on a python library which depends on a particular npm package?
+But what can you do, if you have transient dependencies? Imagine your python code depends on a python library which depends on a particular npm package ... AFAIK this is not solved yet.
 
 # Public CDN
 
