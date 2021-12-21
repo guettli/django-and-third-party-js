@@ -104,6 +104,11 @@ Instead of using a Makefile, you can use Google's [bazel](https://bazel.build/).
 
 Up to now I have not seen anyone using it for Django, but it looks promising.
 
+# RPM/DPKG/Snap/Flatpak
+
+You can use package managers like rpm, dpkg, snap, flatpak.
+
+
 # Other Asset-Managers
 
 https://djangopackages.org/grids/g/asset-managers/
