@@ -102,7 +102,9 @@ You can solve this by custom scripting.
 
 Instead of using a Makefile, you can use Google's [bazel](https://bazel.build/).
 
-Up to now I have not seen anyone using it for Django, but it looks promising.
+There is a [#Python](https://app.slack.com/client/TA4K1KQ87/CA306CEV6) channel in the bazel slack workspace.
+
+And some people seem to use it.
 
 # RPM/DPKG/Snap/Flatpak
 
