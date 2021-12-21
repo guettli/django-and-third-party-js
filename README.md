@@ -19,10 +19,10 @@ Please give me feedback! Is there a feasible option missing from this list? Plea
 The fundamental issue that you can use `pip` to install Python dependencies, but you can't install
 Javascript dependencies.
 
-You can use `npm` to download JavaScript libraries. But how to integrate this into your code?
+Things are easy if you have only direct dependencies. Then you can handle your requirements for python
+code in requirements.txt and requirements for npm packages via packages.json.
 
-Maybe we will all be using Google's [bazel](https://bazel.build/) in the future. But up to now mere mortals
-need to find a simple solution.
+But what can you do, if you depend on a python library which depends on a particular npm package?
 
 # Public CDN
 
@@ -93,6 +93,16 @@ Up to now the django-cookiecutter uses Gulp. But I would not recommend it if you
 Webpack has a much bigger and healthier community.
 
 Related Merge-Request [Replace Gulp with Webpack](https://github.com/cookiecutter/cookiecutter-django/pull/3106)
+
+# Custom Shell/Python/Makefile
+
+You can solve this by custom scripting.
+
+# Bazel
+
+Instead of using a Makefile, you can use Google's [bazel](https://bazel.build/).
+
+Up to now I have not seen anyone using it for Django, but it looks promising.
 
 # Other Asset-Managers
 
