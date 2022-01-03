@@ -84,7 +84,7 @@ Pro:
 
 Con:
 
-* It is likely that you package you need was not uploaded yet.
+* It is likely that the package you need was not uploaded yet.
 
 # Gulp
 
