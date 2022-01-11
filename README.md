@@ -12,6 +12,8 @@ How to get the their JS or CSS code into your application?
 Here I list the options you have so that you have an overview to find
 your solution.
 
+Attention: This is just a list, not a solution. I have not found my prefered way yet.
+
 Please give me feedback! Is there a feasible option missing from this list? Please share your solution.
 
 # The problem
